@@ -6,7 +6,7 @@
 ## Description
 Login and signup app with Flutter inspired by a UI design seen on Dribble.
 <br>
-Star this repository and follow me on github <a href="https://github.com/donne12"><img src="assets/images/followme.png" width="20%"></a>
+Star this repository and follow me on github <a href="https://github.com/donne12"><img src="assets/images/followme.png" width="5%"></a>
 
 ## Requirements
 - Flutter 3.3.10 ou supérieur
@@ -18,9 +18,9 @@ Star this repository and follow me on github <a href="https://github.com/donne12
 ## Screenshots
 <table>
   <tr>
-    <td><img src="assets/screens/screen1.png" width="32%"></td>
-    <td><img src="assets/screens/screen2.png" width="32%"></td>
-    <td><img src="assets/screens/screen3.png" width="32%"></td>
+    <td><img src="assets/screens/screen1.png" width="50%"></td>
+    <td><img src="assets/screens/screen2.png" width="50%"></td>
+    <td><img src="assets/screens/screen3.png" width="50%"></td>
   </tr>
 </table>
 
