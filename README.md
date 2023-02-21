@@ -15,9 +15,9 @@ Application de connexion et d'inscription avec Flutter inspiré d'un UI design v
 ## Screenshots
 <table>
   <tr>
-    <img src="https://drive.google.com/file/d/1KkbZHUFNNVmIt2_QtkPhAeIb3SFpN_5b/view?usp=share_link">
-    <img src="https://drive.google.com/file/d/10C4N7x9C8HdZ0cb3v9dDD7LuBHv0I3QY/view?usp=share_link">
-    <img src="https://drive.google.com/file/d/1RMPCyB3b274ebsh6zQKvcFiqMJGi9gSM/view?usp=share_link">
+    <img src="assets/screens/screen1.png">
+    <img src="assets/screens/screen2.png">
+    <img src="assets/screens/screen3.png">
   </tr>
 </table>
 
