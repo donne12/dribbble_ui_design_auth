@@ -102,13 +102,13 @@ class LoginPage extends StatelessWidget {
                                         Text("Jane Dow",
                                             style: TextStyle(
                                                 color: Colors.white,
-                                                fontSize: 25,
+                                                fontSize: 20,
                                                 fontWeight: FontWeight.bold)),
                                         const SizedBox(height: 5),
                                         Text("jane.doe@gmail.com",
                                             style: const TextStyle(
                                                 color: Colors.white,
-                                                fontSize: 20))
+                                                fontSize: 18))
                                       ],
                                     )
                                   ]),
@@ -139,7 +139,7 @@ class LoginPage extends StatelessWidget {
                                         color:
                                             Color.fromARGB(255, 71, 233, 133),
                                         fontWeight: FontWeight.bold,
-                                        fontSize: 25),
+                                        fontSize: 20),
                                     textAlign: TextAlign.start),
                               ],
                             ),

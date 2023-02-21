@@ -75,7 +75,7 @@ class Signup extends StatelessWidget {
                             borderRadius:
                                 const BorderRadius.all(Radius.circular(30))),
                         width: MediaQuery.of(context).size.width * 0.9,
-                        height: MediaQuery.of(context).size.height * 0.45,
+                        height: MediaQuery.of(context).size.height * 0.49,
                         child: Form(
                           key: _formKey,
                           child: Center(
@@ -88,14 +88,14 @@ class Signup extends StatelessWidget {
                                     "Look like you don't have an account. Let's create a new account for",
                                     // ignore: prefer_const_constructors
                                     style: TextStyle(
-                                        color: Colors.white, fontSize: 25),
+                                        color: Colors.white, fontSize: 20),
                                     textAlign: TextAlign.start),
                                 // ignore: prefer_const_constructors
                                 const Text(
                                   "jane.doe@gmail.com",
                                   style: TextStyle(
                                       color: Colors.white,
-                                      fontSize: 25,
+                                      fontSize: 20,
                                       fontWeight: FontWeight.bold),
                                   textAlign: TextAlign.start,
                                 ),
@@ -130,7 +130,7 @@ class Signup extends StatelessWidget {
                                                 'By selecting Agree & Continue below, I agree to our ',
                                             style: TextStyle(
                                                 color: Colors.white,
-                                                fontSize: 18),
+                                                fontSize: 20),
                                           ),
                                           TextSpan(
                                               text:
@@ -139,7 +139,7 @@ class Signup extends StatelessWidget {
                                                   color: Color.fromARGB(
                                                       255, 71, 233, 133),
                                                   fontWeight: FontWeight.bold,
-                                                  fontSize: 18)),
+                                                  fontSize: 20)),
                                         ],
                                       ),
                                     ),

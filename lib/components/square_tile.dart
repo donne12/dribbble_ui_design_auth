@@ -26,7 +26,7 @@ class SquareTile extends StatelessWidget {
           ),
           const SizedBox(width: 20),
           Text(title,
-              style: const TextStyle(fontSize: 23, fontWeight: FontWeight.bold))
+              style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold))
         ],
       ),
     );

@@ -39,13 +39,13 @@ class MyButtonAgree extends StatelessWidget {
       child: Container(
         padding: const EdgeInsets.all(25),
         decoration: BoxDecoration(
-          color: Color.fromARGB(255, 71, 233, 133),
+          color: const Color.fromARGB(255, 71, 233, 133),
           borderRadius: BorderRadius.circular(8),
         ),
         child:  Center(
           child: Text(
             text,
-            style: TextStyle(
+            style: const TextStyle(
                 color: Colors.white, fontWeight: FontWeight.bold, fontSize: 25),
           ),
         ),

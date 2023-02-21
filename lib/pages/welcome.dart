@@ -69,7 +69,7 @@ class WelcomePage extends StatelessWidget {
                             borderRadius:
                                 BorderRadius.all(Radius.circular(30))),
                         width: MediaQuery.of(context).size.width * 0.9,
-                        height: MediaQuery.of(context).size.height * 0.61,
+                        height: MediaQuery.of(context).size.height * 0.63,
                         child: Form(
                           key: _formKey,
                           child: Center(
@@ -182,7 +182,7 @@ class WelcomePage extends StatelessWidget {
                                             'Don\'t have an account?',
                                             style: TextStyle(
                                                 color: Colors.white,
-                                                fontSize: 25),
+                                                fontSize: 20),
                                             textAlign: TextAlign.start,
                                           ),
                                           const SizedBox(width: 4),
@@ -192,7 +192,7 @@ class WelcomePage extends StatelessWidget {
                                                 color: Color.fromARGB(
                                                     255, 71, 233, 133),
                                                 fontWeight: FontWeight.bold,
-                                                fontSize: 25),
+                                                fontSize: 20),
                                           ),
                                         ],
                                       ),
@@ -206,7 +206,7 @@ class WelcomePage extends StatelessWidget {
                                               color: Color.fromARGB(
                                                   255, 71, 233, 133),
                                               fontWeight: FontWeight.bold,
-                                              fontSize: 25),
+                                              fontSize: 20),
                                           textAlign: TextAlign.start),
                                     ],
                                   ),
